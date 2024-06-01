@@ -1,0 +1,23 @@
+.createbutton {
+    width: px;
+    height: auto;
+    margin: 15px auto;
+    padding: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index:1;
+    background-color: rgb(176, 156, 248);
+    border-radius: 8px;
+    border: none;
+    cursor: pointer;
+    box-shadow: 5px 5px 5px 2px rgb(132, 117, 188);
+    color: rgb(62, 21, 97);
+    font-weight: 700;
+    text-transform: uppercase;
+}
+.createbutton:hover{
+    background-color: rgb(198, 184, 246);
+
+}
+
